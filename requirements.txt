@@ -1,0 +1,5 @@
+# for searchengine_es8.py (the original searchengine.py targets the pre-8 client plus json_lines)
+elasticsearch>=8,<9
+numpy
+# tests
+pytest

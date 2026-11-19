@@ -1,0 +1,5 @@
+__pycache__/
+.pytest_cache/
+.venv/
+# Signal Media dataset (download separately, ~1 GB)
+*.jsonl
